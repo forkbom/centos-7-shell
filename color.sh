@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# 学习如何使用函数
 colorecho (){
 	echo -e "\033[$1m$2\033[0m"
 }
